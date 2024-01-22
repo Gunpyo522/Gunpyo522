@@ -8,9 +8,16 @@
 
 ## Profile
 
-🧑 권건표 <br>
-👶 2000.05.22 <br>
-📞 010-3826-1138 <br>
+# 📞 Contact 📞
+<div style="display:flex; flex-direction:row;">
+    <a href="mailto:gunpyo522@gmail.com">
+        <img src="https://img.shields.io/badge/
+        Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+    </a>
+    <a href="https://www.instagram.com/gun__ppang">
+        <img src="https://img.shields.io/badge/
+        Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
+    </a>
 
 ## 🔨 Once I've used 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
